@@ -1,0 +1,45 @@
+@font-face{
+	font-family:"Pacifico";
+	src: url("Pacifico.ttf");
+	
+}
+
+div.text-center{
+	height: 3em;
+	font-family: "Pacifico"
+}
+h1{
+	font-size:75px;
+	font-family:'Pacifico';
+}
+text-center.h1{
+	font-family:'Pacifico';
+	
+}
+
+li a{
+	color:black;
+	font-size:30px;
+	font-family:'Pacifico';
+}
+
+.nav-item .nav-link{
+	color: White;
+}
+.jumbotron .jumbotron-fluid{
+	background-color:white;
+
+}
+img { 
+    max-width: 100%; 
+    height: auto; 
+	padding-left:3em;
+	padding-right:3em;
+}
+footer{
+	text-center:
+}
+
+.w3-col{
+	float:left;width:33%
+}
